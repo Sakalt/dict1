@@ -1,0 +1,168 @@
+﻿{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "na"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "一つの" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "英語",
+      "text" : "a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "am"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "私" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "ag"
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "俺", "僕", "ぼくちん" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "asi"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "わし", "わしゃの" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "接尾詞",
+      "forms" : [ "下,下の" ]
+    } ],
+    "tags" : [ "接尾詞" ],
+    "contents" : [ {
+      "title" : "例",
+      "text" : "奴隷 raqan"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "qan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "人" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "raqan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "奴隷" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "qankali"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "英雄" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "xi"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "は" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "xel"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "を" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "korn"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "リンゴ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "cuen"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "食べる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "注意",
+      "text" : "飲むは別。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ]
+}
